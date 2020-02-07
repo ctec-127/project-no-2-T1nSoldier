@@ -2,6 +2,172 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 5px;
+    padding: ;
+    
+}
+div {
+    padding: 10px;
+}
+
+#form {
+    background-color: darkgray;
+    width: 75%;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 5px;
+}
+
+.darkbg {
+    background-color: #333333;
+}
+.skybluebg {
+    background-color: skyblue;
+}
+.redbg {
+    background-color: red;
+}
+.orangebg {
+    background-color: orange;
+}
+.yellowbg {
+    background-color: yellow;
+}
+.greenbg {
+    background-color: green;
+}
+.bluebg {
+    background-color: blue;
+}
+.indigobg {
+    background-color: indigo;
+}
+.violetbg {
+    background-color: violet;
+}
+.pinkbg {
+    background-color: pink;
+}
+.purplebg {
+    background-color: purple;
+}
+.blackbg {
+    background-color: black;
+}.whitebg {
+    background-color: white;
+}
+
+  
+    
+
+
+.redtext {
+    color: red;
+}
+
+.orangetext {
+    color: orange;
+}
+
+.yellowtext {
+    color: yellow;
+}
+
+.greentext {
+    color: green;
+}
+
+.bluetext {
+    color: blue;
+}
+
+.indigotext {
+    color: indigo;
+}
+
+.violettext {
+    color: violet;
+}
+.pinktext {
+    color: pink;
+}
+.purpletext {
+    color: purple;
+}
+.blacktext {
+    color: black;
+}.whitetext {
+    color: white;
+}
+
+.tnr {
+    font-family: "Times New Roman", Times, serif;
+}
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.comic {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+img {
+    width: 120px;
+    margin-right: 5px;
+}
+
+.leftimg {
+    float: left;
+}
+.centerimg {
+    margin: auto;
+}
+.rightimg {
+    float: right;
+}
+.hideimg {
+    display: none;
+}
+.solid {
+    border-style: solid;
+}
+.dashed {
+    border-style: dashed;
+}.dotted {
+    border-style: dotted;
+}.double {
+    border-style: double;
+}
+
+.blackbdr {
+    border-color: black;
+}
+.whitebdr {
+    border-color: white;
+}
+.redbdr {
+    border-color: red;
+}
+.orangebdr {
+    border-color: orange;
+}
+.yellowbdr {
+    border-color: yellow;
+}
+.greenbdr {
+    border-color: green;
+}
+.bluebdr {
+    border-color: blue;
+}
+.indigobdr {
+    border-color: indigo;
+}
+.violetbdr {
+    border-color: violet;
+}
+.pinkbdr {
+    border-color: pink;
+}
+.purplebdr {
+    border-color: purple;
 }
