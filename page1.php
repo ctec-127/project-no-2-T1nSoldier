@@ -39,9 +39,9 @@
             <option value="double">Double</option>
         </select>
         <br><br>
-    <label for="border">Border Color</label>
+    <label for="borderColor">Border Color</label>
     <br>
-        <input type="text" name="border" id="border" placeholder="Red, Blue, etc">
+        <input type="text" name="borderColor" id="borderColor" placeholder="Red, Blue, etc">
     <br><br>
     <h3>Image</h3>
     <label for="image">
